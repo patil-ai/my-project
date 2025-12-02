@@ -1,0 +1,5 @@
+{
+  "name": "Sentilytics",
+  "description": "A full-stack style sentiment analysis application with auth, dataset upload, and ML metrics visualization using Gemini API.",
+  "requestFramePermissions": []
+}
